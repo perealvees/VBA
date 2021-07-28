@@ -1,0 +1,28 @@
+Aula 1: 
+Criar função: Funcion nome_funcao
+
+		minha_funcao = 10
+		
+	      End Function
+
+
+Diferença entre function() e SUB(sub-rotina)
+Sub=subrotina, função dentro da célula e devolve um valor
+
+
+funcão SE:
+If pTesteLogico Then
+          Nossa_SE = pVerdadeiro
+    Else
+          Nossa_SE = pFalso
+    End If
+
+Tipo de Dados
+boolean(true or false), double/int(number) variant(qualquer variavel)
+
+
+
+
+
+
+
