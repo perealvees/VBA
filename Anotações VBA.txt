@@ -21,9 +21,15 @@ Tipo de Dados
 boolean(true or false), double/int(number) variant(qualquer variavel)
 
 
+Ctrl e seta = para verificar a ultima linha preenchida
+
+
 OBJETO contém propriedades e operações, consegue fazer açoes como adicionar comentarios, filtros avançados etc
 RANGE contem a propridade (Value), pode ser uma célula ou um intervalo de células
-ROW = Linha
+ROW = Linhas
+CELLS = Célula
+
+
 
 
 
