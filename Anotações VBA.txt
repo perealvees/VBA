@@ -28,7 +28,8 @@ OBJETO contém propriedades e operações, consegue fazer açoes como adicionar 
 RANGE contem a propridade (Value), pode ser uma célula ou um intervalo de células
 ROW = Linha
 CELLS = Célula
-
+& = Concatena células
+IF E ESTRUTURA DE REPETIÇÃO
 
 
 
