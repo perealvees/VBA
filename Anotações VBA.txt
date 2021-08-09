@@ -9,6 +9,7 @@ Criar função: Funcion nome_funcao
 Diferença entre function() e SUB(sub-rotina)
 Sub=subrotina, função dentro da célula e devolve um valor
 
+- - - - 
 
 funcão SE:
 If pTesteLogico Then
@@ -23,13 +24,24 @@ boolean(true or false), double/int(number) variant(qualquer variavel)
 No excel, Ctrl+1 abre a janela de formatação
 Ctrl e seta = para verificar a ultima linha preenchida
 
+- - - - 
 
 OBJETO contém propriedades e operações, consegue fazer açoes como adicionar comentarios, filtros avançados etc
 RANGE contem a propridade (Value), pode ser uma célula ou um intervalo de células
 ROW = Linha
 CELLS = Célula
 & = Concatena células
-IF E ESTRUTURA DE REPETIÇÃO
+IF E ESTRUTURA DE REPETIÇÃO: O IF analisa se é verdadeiro, então faça, sendo falso vai para o proximo argumento
+
+- - - -
+ 
+O dim é usado para declarar uma variavel, logo após usamos o SET para chamar ela
+
+Inserindo arquivos de outra planilha, sem abrir o arquivo
+Copiar caminho do arquivo pelo menu FICHEIRO
+
+- - - 
+
 
 
 
