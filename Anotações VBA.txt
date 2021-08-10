@@ -42,6 +42,13 @@ Copiar caminho do arquivo pelo menu FICHEIRO
 
 - - - 
 
+Ao pedir pro VBA percorrer as pastas, se atentar se ele esta salvo no Drive, pois o caminho vai ficar como link
+
+- - - -
+
+
+
+
 
 
 
